@@ -1,11 +1,3 @@
-h1 {
-  color: red;
-}
-
-h2 {
-  color: pink;
-}
-
 .btn, .btn-laranja {
   width: 200px;
   padding: 10px 0;
@@ -15,12 +7,24 @@ h2 {
 }
 
 .btn-laranja {
-  background-color: orange;
+  background: orange;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: pink;
 }
 
 .size {
   color: black;
-  background: gray;
+  background: pink;
+}
+
+p {
+  color: orange;
 }
 
 /*# sourceMappingURL=style.css.map */

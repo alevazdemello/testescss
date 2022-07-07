@@ -1,3 +1,6 @@
+@import "./variaveis.scss";
+@import "./button.scss";
+
 h1 {
   color: red;
 }
@@ -6,20 +9,11 @@ h2 {
   color: pink;
 }
 
-.btn {
-  width: 200px;
-  padding: 10px 0;
-  background: none;
-  border: 0;
-  border-radius: 10px;
-}
-
-.btn-laranja {
-  @extend .btn;
-  background-color: orange;
-}
-
 .size {
   color: black;
-  background: gray;
+  background: pink;
+}
+
+p {
+  color: $color-orange;
 }
