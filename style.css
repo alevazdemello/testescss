@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: pink;
+}
+
+.btn, .btn-laranja {
+  width: 200px;
+  padding: 10px 0;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+}
+
+.btn-laranja {
+  background-color: orange;
+}
+
+.size {
+  color: black;
+  background: gray;
+}
+
+/*# sourceMappingURL=style.css.map */
