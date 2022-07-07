@@ -1,13 +1,23 @@
-.btn, .btn-laranja {
+.btn {
   width: 200px;
   padding: 10px 0;
   background: none;
   border: 0;
   border-radius: 10px;
+  display: block;
+  margin: 10px;
 }
-
-.btn-laranja {
+.btn.btn-laranja {
   background: orange;
+  color: rgba(17, 34, 34, 0.1333333333);
+}
+.btn.btn-roxo {
+  background: purple;
+  color: #fff;
+}
+.btn.btn-amarelo {
+  background: yellow;
+  color: #fff;
 }
 
 h1 {
