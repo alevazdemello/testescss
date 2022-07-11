@@ -11,13 +11,22 @@
   background: orange;
   color: rgba(17, 34, 34, 0.1333333333);
 }
+.btn.btn-laranja:hover {
+  background: #cc8400;
+}
 .btn.btn-roxo {
   background: purple;
   color: #fff;
 }
+.btn.btn-roxo:hover {
+  background: #4d004d;
+}
 .btn.btn-amarelo {
   background: yellow;
   color: #fff;
+}
+.btn.btn-amarelo:hover {
+  background: #cccc00;
 }
 
 h1 {
